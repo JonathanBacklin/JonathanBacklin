@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JonathanBacklin
-- 👀 Interested in Web development
-- 🌱 Currently Working at Spotify && Vakansa
+- 👀 Freelance Developer
 - 📫 Reach me @ backlinjonathan@gmail.com ...
 
 <!---
